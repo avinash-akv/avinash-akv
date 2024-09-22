@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Kumar Verma</h1>
-<h3 align="center">A Passionate Web Developer and Designer from India</h3>
+<h3 align="center">A Passionate Data Analyst and Frontend Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=avinash-akv&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
