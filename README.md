@@ -106,6 +106,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-akv&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" style="margin-bottom: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=avinash-akv&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" style="margin-bottom: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-akv&theme=dracula" alt="GitHub Streak" />
 </div>
